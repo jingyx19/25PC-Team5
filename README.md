@@ -62,7 +62,7 @@ jupyter notebook 01_data_clean.ipynb
 # 3. 运行图表渲染与 EDA 脚本（自动生成 output 目录及高清图表）
 jupyter notebook 02_China_stock_analysis.ipynb
 ```
-
+---
 ## 📂 项目文档结构
 ```text
 ./
